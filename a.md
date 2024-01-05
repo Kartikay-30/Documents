@@ -1,15 +1,15 @@
 
 **Amazon Simple Storage Service (S3)**![](https://lh7-us.googleusercontent.com/UA0ooxTO4n9Mc15rjYW3VqV1U7SDLwS21-CUheZzq7lfMg2nOXOD8Jt1Dfe8Mn_XDDUuodPHNXolJCt6DJLXyXMtD_p_-Y-a8PtbXsQaHeCy58pelam28_v_UpznSUtzWtPXVCzjnEvP9nlFdWc_cIU)![](https://lh7-us.googleusercontent.com/HLLNPR4m3n2yUYENZo8-4A_bx9gNUStrS0F9RIXQsvrnVTeO4MmTESINgjBeCg0ESD78ieCKCL0I70TavGZRKEnVPatca0ncG3hSeku6XqixmwSLrHPIi24GAZAgR4JIpsmfnO6g0UAjtwfRYwmrpSI)******By:- Kartikay****December Intern** 
 
-**Table of Content:-**
+Table of Content:-
 
-[**1. What is AWS ? ****3**](#what-is-aws-)
+[1. What is AWS ? ](#what-is-aws-)
 
 [Benefits of AWS:- 3](#benefits-of-aws-)
 
-[**2. What is Amazon S3 ? ****4**](#what-is-amazon-s3-)
+[2. What is Amazon S3 ? ](#what-is-amazon-s3-)
 
-[**3. Features of Amazon S3:- ****5**](#features-of-amazon-s3-)
+[3. Features of Amazon S3:- ](#features-of-amazon-s3-)
 
 [➔ Storage Classes 5](#storage-classes)
 
@@ -21,7 +21,7 @@
 
 [➔ Storage logging & Monitoring 6](#storage-logging--monitoring)
 
-[**4. How Amazon S3 Works ****8**](#how-amazon-s3-works)
+[4. How Amazon S3 Works ](#how-amazon-s3-works)
 
 [Key Points :- 13](#key-points--)
 
@@ -43,7 +43,7 @@
 
 [(i) Region 15](#region)
 
-[**# Reference Links ****16**](#-reference-links)
+[# Reference Links ](#-reference-links)
 
 1. #  What is AWS ?<a id="what-is-aws-"></a>
 
