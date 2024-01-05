@@ -5,43 +5,43 @@ Table of Content:-
 
 [1. What is AWS ? ](#what-is-aws-)
 
-[Benefits of AWS:- 3](#benefits-of-aws-)
+[Benefits of AWS:- ](#benefits-of-aws-)
 
 [2. What is Amazon S3 ? ](#what-is-amazon-s3-)
 
 [3. Features of Amazon S3:- ](#features-of-amazon-s3-)
 
-[➔ Storage Classes 5](#storage-classes)
+[➔ Storage Classes ](#storage-classes)
 
-[➔ Storage Management 5](#storage-management)
+[➔ Storage Management ](#storage-management)
 
-[➔ Access Management & Security 6](#access-management--security)
+[➔ Access Management & Security ](#access-management--security)
 
-[➔ Data processing 6](#data-processing)
+[➔ Data processing ](#data-processing)
 
-[➔ Storage logging & Monitoring 6](#storage-logging--monitoring)
+[➔ Storage logging & Monitoring ](#storage-logging--monitoring)
 
 [4. How Amazon S3 Works ](#how-amazon-s3-works)
 
-[Key Points :- 13](#key-points--)
+[Key Points :- ](#key-points--)
 
-[(a) Bucket 13](#bucket)
+[(a) Bucket ](#bucket)
 
-[(b) Objects 14](#objects)
+[(b) Objects ](#objects)
 
-[(c) Key 14](#key)
+[(c) Key ](#key)
 
-[(d) S3 Versioning 14](#s3-versioning)
+[(d) S3 Versioning ](#s3-versioning)
 
-[(e) Version Id 14](#version-id)
+[(e) Version Id ](#version-id)
 
-[(f) Bucket Policy 14](#bucket-policy)
+[(f) Bucket Policy ](#bucket-policy)
 
-[(g) S3 Access Point 15](#s3-access-point)
+[(g) S3 Access Point ](#s3-access-point)
 
-[(h) Access Control Lists (ACL) 15](#access-control-lists-acl)
+[(h) Access Control Lists (ACL) ](#access-control-lists-acl)
 
-[(i) Region 15](#region)
+[(i) Region ](#region)
 
 [# Reference Links ](#-reference-links)
 
