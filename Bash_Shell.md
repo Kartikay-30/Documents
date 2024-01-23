@@ -93,13 +93,13 @@ echo "The number is :-" $k 
 ```
 kartik\@ubuntu:\~$ bash basic.sh
 ```
-
+***
 what is the number ?
 
 23
 
 The number is :- 23
-
+***
 **NOTE ➖**
 
 - To write bash scripts we have to use some editors like (nano,vim,vi).
@@ -142,22 +142,23 @@ fi
 ```
 kartik\@ubuntu:\~$ bash condition.sh
 ```
-
+***
 Enter the number
 
 12345
 
 **Number is incorrect**
-
+***
 ```
 kartik\@ubuntu:\~$ bash condition.sh
 ```
-
+***
 Enter the number
 
 123
 
 **Number is correct**
+***
 
 *******************************
 *******************************
@@ -189,7 +190,7 @@ fi
 ```
 kartik\@ubuntu:\~$ bash and.sh
 ```
-
+***
 Now enter the details of user
 
 Enter the username
@@ -201,11 +202,11 @@ Enter the password
 301224
 
 **user is invalid**
-
+***
 ```
 kartik\@ubuntu:\~$ bash and.sh
 ```
-
+***
 Now enter the details of user
 
 Enter the username
@@ -217,7 +218,7 @@ Enter the password
 301224
 
 **user is valid**
-
+***
 4. #  **Basic Bash commands**<a id="basic-bash-commands"></a>
 
 1)      cd: Change the directory to a different location.
