@@ -91,7 +91,9 @@ echo "The number is :-" $k 
 
 **OUTPUT**
 
-**kartik\@ubuntu:\~$ bash k.sh**
+***
+kartik\@ubuntu:\~$ bash k.sh
+***
 
 what is the number ?
 
@@ -99,7 +101,7 @@ what is the number ?
 
 The number is :- 23
 
-NOTE ➖
+**NOTE ➖**
 
 - To write bash scripts we have to use some editors like (nano,vim,vi).
 
@@ -117,7 +119,9 @@ NOTE ➖
 
 * **Conditional Statement**
 
-**kartik\@ubuntu:\~$ nano k.sh**
+***
+kartik\@ubuntu:\~$ nano k.sh
+***
 
 \#!/bin/bash
 
@@ -139,7 +143,9 @@ fi
 
 **OUTPUT**
 
-**kartik\@ubuntu:\~$ bash k.sh**
+***
+kartik\@ubuntu:\~$ bash k.sh
+***
 
 Enter the number
 
@@ -147,7 +153,9 @@ Enter the number
 
 **Number is incorrect**
 
-**kartik\@ubuntu:\~$ bash k.sh**
+***
+kartik\@ubuntu:\~$ bash k.sh
+***
 
 Enter the number
 
@@ -157,7 +165,9 @@ Enter the number
 
 - **AND (&) Operator**
 
-**kartik\@ubuntu:\~$ nano k.sh**
+***
+kartik\@ubuntu:\~$ nano k.sh
+***
 
 \#!/bin/bash
 
@@ -185,7 +195,9 @@ fi
 
 **OUTPUT**
 
-**kartik\@ubuntu:\~$ bash k.sh**
+***
+kartik\@ubuntu:\~$ bash k.sh
+***
 
 Now enter the details of user
 
@@ -199,7 +211,9 @@ Enter the password
 
 **user is invalid**
 
-**kartik\@ubuntu:\~$ bash k.sh**
+***
+kartik\@ubuntu:\~$ bash k.sh
+***
 
 Now enter the details of user
 
