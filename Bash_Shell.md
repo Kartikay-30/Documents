@@ -76,7 +76,7 @@
 
 3. #  **How to Get Started with Bash Scripting**<a id="how-to-get-started-with-bash-scripting"></a>
 
-- **Basic code**
+ **Basic code**
 
 ***
 kartik\@ubuntu:\~$ nano k.sh
@@ -117,7 +117,7 @@ The number is :- 23
 
 - To run the program we have to write “**bash filename.sh**”, here .sh is the extension to run the program.
 
-* **Conditional Statement**
+ **Conditional Statement**
 
 ***
 kartik\@ubuntu:\~$ nano k.sh
@@ -163,7 +163,7 @@ Enter the number
 
 **Number is correct**
 
-- **AND (&) Operator**
+ **AND (&) Operator**
 
 ***
 kartik\@ubuntu:\~$ nano k.sh
