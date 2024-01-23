@@ -79,7 +79,7 @@
  **Basic code**
 
 ```
-kartik\@ubuntu:\~$ nano k.sh
+kartik\@ubuntu:\~$ nano basic.sh
 ```
 ```
 #!/bin/bash
@@ -91,7 +91,7 @@ echo "The number is :-" $k 
 **OUTPUT**
 
 ```
-kartik\@ubuntu:\~$ bash k.sh
+kartik\@ubuntu:\~$ bash basic.sh
 ```
 
 what is the number ?
@@ -121,7 +121,7 @@ The number is :- 23
  **Conditional Statement**
 
 ```
-kartik\@ubuntu:\~$ nano k.sh
+kartik\@ubuntu:\~$ nano condition.sh
 ```
 ```
 #!/bin/bash
@@ -140,7 +140,7 @@ fi
 **OUTPUT**
 
 ```
-kartik\@ubuntu:\~$ bash k.sh
+kartik\@ubuntu:\~$ bash condition.sh
 ```
 
 Enter the number
@@ -150,7 +150,7 @@ Enter the number
 **Number is incorrect**
 
 ```
-kartik\@ubuntu:\~$ bash k.sh
+kartik\@ubuntu:\~$ bash condition.sh
 ```
 
 Enter the number
@@ -165,7 +165,7 @@ Enter the number
 
  **AND (&) Operator**
 ```
-kartik\@ubuntu:\~$ nano k.sh
+kartik\@ubuntu:\~$ nano and.sh
 ```
 ```
 #!/bin/bash
@@ -187,7 +187,7 @@ fi
 **OUTPUT**
 
 ```
-kartik\@ubuntu:\~$ bash k.sh
+kartik\@ubuntu:\~$ bash and.sh
 ```
 
 Now enter the details of user
@@ -203,7 +203,7 @@ Enter the password
 **user is invalid**
 
 ```
-kartik\@ubuntu:\~$ bash k.sh
+kartik\@ubuntu:\~$ bash and.sh
 ```
 
 Now enter the details of user
