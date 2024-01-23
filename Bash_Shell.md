@@ -238,7 +238,7 @@ Enter the password
 
 9)      cat: Concatenate and print the contents of a file.
 
-10)   read: This command helps us to print the value.
+10)     read: This command helps us to print the value.
 
 
 #  # Reference Links<a id="-reference-links"></a>
