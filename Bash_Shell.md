@@ -80,7 +80,8 @@
 
 ```
 kartik\@ubuntu:\~$ nano k.sh
-
+```
+```
 #!/bin/bash
 
 echo "what is the number ?"
@@ -121,7 +122,8 @@ The number is :- 23
 
 ```
 kartik\@ubuntu:\~$ nano k.sh
-
+```
+```
 #!/bin/bash
 
 echo "Enter the number"
@@ -157,20 +159,22 @@ Enter the number
 
 **Number is correct**
 
- **AND (&) Operator**
+*******************************
+*******************************
+*******************************
 
+ **AND (&) Operator**
 ```
 kartik\@ubuntu:\~$ nano k.sh
-
+```
+```
 #!/bin/bash
 
 echo "Now enter the details of user"
 echo "Enter the username"
-
 read user
 
 echo "Enter the password"
-
 read pass
 
 if [[ ( $user == "Kartikay" **&&** $pass == "301224") ]];
