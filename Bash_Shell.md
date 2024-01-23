@@ -169,7 +169,7 @@ Enter the number
 
 ```
 kartik\@ubuntu:\~$ nano k.sh
-```
+
 
 \#!/bin/bash
 
@@ -194,7 +194,7 @@ else
 echo "user is invalid"
 
 fi
-
+```
 **OUTPUT**
 
 ```
