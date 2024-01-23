@@ -2,11 +2,11 @@
 
 **Table of Content** 
 
-[**1. Introduction **](#introduction)
+[1. Introduction ](#introduction)
 
 [Definition of Bash scripting ](#definition-of-bash-scripting)
 
-[**2. Advantages of Bash scripting **](#advantages-of-bash-scripting)
+[2. Advantages of Bash scripting ](#advantages-of-bash-scripting)
 
 [➔ Automation ](#automation)
 
@@ -20,11 +20,11 @@
 
 [➔ Debugging ](#debugging)
 
-[**3. How to Get Started with Bash Scripting **](#how-to-get-started-with-bash-scripting)
+[3. How to Get Started with Bash Scripting ](#how-to-get-started-with-bash-scripting)
 
-[**4. Basic Bash commands **](#basic-bash-commands)
+[4. Basic Bash commands ](#basic-bash-commands)
 
-[**# Reference Links **](#-reference-links)
+[# Reference Links ](#-reference-links)
 
 
 ##
@@ -78,8 +78,9 @@
 
 - **Basic code**
 
-**kartik\@ubuntu:\~$ nano k.sh**
-
+***
+kartik\@ubuntu:\~$ nano k.sh
+***
 !/bin/bash
 
 echo "what is the number ?"
