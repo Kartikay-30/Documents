@@ -148,17 +148,14 @@ Enter the number
 12345
 
 **Number is incorrect**
-***
 ```
 kartik\@ubuntu:\~$ bash condition.sh
 ```
-***
 Enter the number
 
 123
 
 **Number is correct**
-***
 
 *******************************
 *******************************
@@ -202,11 +199,9 @@ Enter the password
 301224
 
 **user is invalid**
-***
 ```
 kartik\@ubuntu:\~$ bash and.sh
 ```
-***
 Now enter the details of user
 
 Enter the username
