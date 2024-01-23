@@ -116,7 +116,9 @@ The number is :- 23
 - “$” means to find a specific value that we enter with the help of the read command.
 
 - To run the program we have to write “**bash filename.sh**”, here .sh is the extension to run the program.
-
+*******************************
+*******************************
+*******************************
  **Conditional Statement**
 
 ***
