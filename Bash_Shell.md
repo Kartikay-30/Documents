@@ -80,15 +80,13 @@
 
 ```
 kartik\@ubuntu:\~$ nano k.sh
-```
-!/bin/bash
+
+#!/bin/bash
 
 echo "what is the number ?"
-
 read k
-
 echo "The number is :-" $k 
-
+```
 **OUTPUT**
 
 ```
@@ -123,26 +121,20 @@ The number is :- 23
 
 ```
 kartik\@ubuntu:\~$ nano k.sh
-```
 
-\#!/bin/bash
+#!/bin/bash
 
 echo "Enter the number"
 
 read num
 
-if \[ $num -lt 1000 ];
-
+if [ $num -lt 1000 ];
 then
-
 echo "Number is correct"
-
 else
-
 echo "Number is incorrect"
-
 fi
-
+```
 **OUTPUT**
 
 ```
@@ -170,11 +162,9 @@ Enter the number
 ```
 kartik\@ubuntu:\~$ nano k.sh
 
-
-\#!/bin/bash
+#!/bin/bash
 
 echo "Now enter the details of user"
-
 echo "Enter the username"
 
 read user
@@ -183,16 +173,11 @@ echo "Enter the password"
 
 read pass
 
-if \[\[ ( $user == "Kartikay" **&&** $pass == "301224") ]];
-
+if [[ ( $user == "Kartikay" **&&** $pass == "301224") ]];
 then
-
 echo "user is valid"
-
 else
-
 echo "user is invalid"
-
 fi
 ```
 **OUTPUT**
@@ -249,7 +234,7 @@ Enter the password
 
 9)      cat: Concatenate and print the contents of a file.
 
-10) read: This command helps us to print the value.
+10)     read: This command helps us to print the value.
 
 
 #  # Reference Links<a id="-reference-links"></a>
