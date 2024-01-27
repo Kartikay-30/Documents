@@ -24,8 +24,6 @@
 
 [4. Basic Bash commands ](#basic-bash-commands)
 
-[# Reference Links ](#-reference-links)
-
 
 ##
 
@@ -235,14 +233,3 @@ Enter the password
 9)      cat: Concatenate and print the contents of a file.
 
 10)  read: This command helps us to print the value.
-
-
-#  # Reference Links<a id="-reference-links"></a>
-
-- <https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/>
-
-- <https://www.datacamp.com/tutorial/how-to-write-bash-script-tutorial>
-
-- <https://www.javatpoint.com/bash-arithmetic-operators>
-
--
