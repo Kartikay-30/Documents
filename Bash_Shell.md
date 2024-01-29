@@ -212,6 +212,50 @@ Enter the password
 
 **user is valid**
 ***
+***************
+***************
+- **CASE Option**
+```
+**kartik\@ubuntu:\~$ nano k.sh**
+```
+echo "Enter the assigned Single digit no. to check Employee details"
+
+read val
+case $val in
+1)
+echo "Name – Ram  Emp ID – 101 ";;
+2)
+echo "Name – Ramesh  Emp ID – 103 ";;
+3)
+echo "Name – Shyam  Emp ID – 102 ";;
+4)
+echo "Name – Vishal Emp ID – 104 ";;
+5)
+echo "Name – Aman  Emp ID – 105 ";;
+*)
+echo "Sorry! Invalid choice";;
+esac
+
+**OUTPUT**
+**********
+```
+**kartik\@ubuntu:\~$ bash k.sh**
+```
+Enter the assigned Single digit no. to check Employee details
+2
+
+**Name – Ramesh  Emp ID – 103**
+```
+**kartik\@ubuntu:\~$ bash k.sh**
+```
+Enter the assigned Single digit no. to check Employee details
+
+**\***
+
+**Sorry! Invalid choice**
+
+**********
+
 4. #  **Basic Bash commands**<a id="basic-bash-commands"></a>
 
 1)      cd: Change the directory to a different location.
