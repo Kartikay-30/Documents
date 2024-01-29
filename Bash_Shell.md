@@ -74,7 +74,7 @@
 
 3. #  **How to Get Started with Bash Scripting**<a id="how-to-get-started-with-bash-scripting"></a>
 
- **Basic code**
+- **Basic code**
 
 ```
 kartik\@ubuntu:\~$ nano basic.sh
@@ -116,7 +116,7 @@ The number is :- 23
 *******************************
 *******************************
 *******************************
- **Conditional Statement**
+- **Conditional Statement**
 
 ```
 kartik\@ubuntu:\~$ nano condition.sh
@@ -159,7 +159,7 @@ Enter the number
 *******************************
 *******************************
 
- **AND (&) Operator**
+- **AND (&) Operator**
 ```
 kartik\@ubuntu:\~$ nano and.sh
 ```
@@ -216,7 +216,7 @@ Enter the password
 ***************
 - **CASE Option**
 ```
-**kartik\@ubuntu:\~$ nano k.sh**
+**kartik\@ubuntu:\~$ nano case.sh**
 ```
 ```
 #!/bin/bash
@@ -243,14 +243,15 @@ esac
 **OUTPUT**
 **********
 ```
-**kartik\@ubuntu:\~$ bash k.sh**
+**kartik\@ubuntu:\~$ bash case.sh**
 ```
 Enter the assigned Single digit no. to check Employee details
+
 2
 
 **Name – Ramesh  Emp ID – 103**
 ```
-**kartik\@ubuntu:\~$ bash k.sh**
+**kartik\@ubuntu:\~$ bash case.sh**
 ```
 Enter the assigned Single digit no. to check Employee details
 
