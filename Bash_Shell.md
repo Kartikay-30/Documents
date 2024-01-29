@@ -1,4 +1,7 @@
-| **Bash Shell Scripting**![](https://lh7-us.googleusercontent.com/7ibztAUH9YGUTbFhsy2gfL0QRW75HHbUCIMa-s_-c5ganCn1i6Xoh6gv5d2GjtDrnxw-_9vf91nk3J8pW2At9MQERlZm_hJJWbzUwqPBJUlQDha3IsC_EE1JxHEuWtUo0oIxWFgvtALWBvdL00hSTA)    ![](https://lh7-us.googleusercontent.com/mVhKrK79bHLqPTGIjd3FND9OhxbtgPJRxMc7-BclQqFBhfyd4QBVYSVasTLG0Bw_ilGsAEVqBo1xZMl-xbXn3B40tcJACkLw1RzT89bc9Wn4Io3hun2ux2P7-G4wJB8Vzb0Q5Yz_HXeVXLlA6x7Gfg)**By :- Kartikay** |
+| **Bash Shell Scripting**
+![](https://lh7-us.googleusercontent.com/7ibztAUH9YGUTbFhsy2gfL0QRW75HHbUCIMa-s_-c5ganCn1i6Xoh6gv5d2GjtDrnxw-_9vf91nk3J8pW2At9MQERlZm_hJJWbzUwqPBJUlQDha3IsC_EE1JxHEuWtUo0oIxWFgvtALWBvdL00hSTA)  
+![](https://lh7-us.googleusercontent.com/mVhKrK79bHLqPTGIjd3FND9OhxbtgPJRxMc7-BclQqFBhfyd4QBVYSVasTLG0Bw_ilGsAEVqBo1xZMl-xbXn3B40tcJACkLw1RzT89bc9Wn4Io3hun2ux2P7-G4wJB8Vzb0Q5Yz_HXeVXLlA6x7Gfg)
+**By :- Kartikay** 
 
 **Table of Content** 
 
