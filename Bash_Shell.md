@@ -80,7 +80,7 @@
 
 3. #  **How to Get Started with Bash Scripting**<a id="how-to-get-started-with-bash-scripting"></a>
 
-- **Basic code**
+i) **Basic code**
 
 ```
 kartik\@ubuntu:\~$ nano basic.sh
@@ -122,7 +122,7 @@ The number is :- 23
 *******************************
 *******************************
 *******************************
-- **Conditional Statement**
+ii) **Conditional Statement**
 
 ```
 kartik\@ubuntu:\~$ nano condition.sh
@@ -165,7 +165,7 @@ Enter the number
 *******************************
 *******************************
 
-- **AND (&) Operator**
+iii) **AND (&) Operator**
 ```
 kartik\@ubuntu:\~$ nano and.sh
 ```
@@ -220,7 +220,7 @@ Enter the password
 ***
 ***************
 ***************
-- **CASE Option**
+iv) **CASE Option**
 ```
 **kartik\@ubuntu:\~$ nano case.sh**
 ```
