@@ -222,7 +222,7 @@ Enter the password
 ***************
 iv) **CASE Option**
 ```
- nano case.sh
+kartik\@ubuntu:\~$ nano case.sh
 ```
 ```
 #!/bin/bash
@@ -249,7 +249,7 @@ esac
 **OUTPUT**
 **********
 ```
- bash case.sh
+kartik\@ubuntu:\~$ bash case.sh
 ```
 Enter the assigned Single digit no. to check Employee details
 
@@ -257,7 +257,7 @@ Enter the assigned Single digit no. to check Employee details
 
 **Name – Ramesh  Emp ID – 103**
 ```
- bash case.sh
+kartik\@ubuntu:\~$ bash case.sh
 ```
 Enter the assigned Single digit no. to check Employee details
 
