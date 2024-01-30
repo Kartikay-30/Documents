@@ -279,8 +279,10 @@ Enter the assigned Single digit no. to check Employee details
  bash case.sh
 ```
 Enter the assigned Single digit no. to check Employee details
+
 **\***
-**Sorry! Invalid choice**
+
+  **Sorry! Invalid choice**
 **********
 **********
 **********
