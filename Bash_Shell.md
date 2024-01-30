@@ -289,6 +289,47 @@ Enter the assigned Single digit no. to check Employee details
 **********
 **********
 **********
+v) **Looping** 
+
+This is a process in which all the statements will run till condition is true
+
+- For loop
+```
+nano loop.sh
+```
+```
+for (( count==0; count<10; count++; ))
+
+do
+
+echo $count
+
+done
+```
+**OUTPUT**
+**********
+```
+bash loop.sh
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+```
 
 4. #  **Basic Bash commands**<a id="basic-bash-commands"></a>
 
