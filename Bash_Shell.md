@@ -104,7 +104,7 @@ To start a Bash script in Linux, we need to follow these general steps:
 
 
 Keep in mind that the first line (`#!/bin/bash`) is called a **SHEBANG**, and it specifies the interpreter (in this case, Bash) to be used to run the script. It's necessary for the script to be interpreted correctly.
-
+*****************************************************************
 i) **Basic code**
 
 ```
