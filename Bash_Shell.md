@@ -110,7 +110,7 @@ The number is :- 23
 
 - To write a script we create a file using the above editors for e.g.- “**nano filename.sh**” here .sh is the extension to run the program.
 
-- In above code “#!/bin/bash” named “**SHEBANG (#!)**”.It helps to execute the file using the Bash shell.
+- In above code “#!/bin/bash” named “**SHEBANG (#!)**”.It specifies the interpreter (in this case, Bash) to be used to run the script. It's necessary for the script to be interpreted correctly.
 
 - Echo command is used to print the statement.
 
