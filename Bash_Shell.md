@@ -201,7 +201,7 @@ read user
 echo "Enter the password"
 read pass
 
-if [[ ( $user == "Kartikay" **&&** $pass == "301224") ]];
+if [[ ( $user == "Kartikay" && $pass == "301224") ]];
 then
 echo "user is valid"
 else
