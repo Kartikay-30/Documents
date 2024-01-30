@@ -310,8 +310,8 @@ done
 **********
 ```
 bash loop.sh
-
-
+```
+```
 1
 
 2
@@ -327,10 +327,11 @@ bash loop.sh
 7
 
 8
-
 9
 ```
-
+***********
+***********
+***********
 4. #  **Basic Bash commands**<a id="basic-bash-commands"></a>
 
 1)      cd: Change the directory to a different location.
