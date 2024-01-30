@@ -108,7 +108,7 @@ Keep in mind that the first line (`#!/bin/bash`) is called a **SHEBANG**, and it
 i) **Basic code**
 
 ```
-kartik\@ubuntu:\~$ nano basic.sh
+ nano basic.sh
 ```
 ```
 #!/bin/bash
@@ -120,7 +120,7 @@ echo "The number is :-" $k 
 **OUTPUT**
 
 ```
-kartik\@ubuntu:\~$ bash basic.sh
+ bash basic.sh
 ```
 ***
 what is the number ?
@@ -144,7 +144,7 @@ The number is :- 23
 ii) **Conditional Statement**
 
 ```
-kartik\@ubuntu:\~$ nano condition.sh
+ nano condition.sh
 ```
 ```
 #!/bin/bash
@@ -163,7 +163,7 @@ fi
 **OUTPUT**
 
 ```
-kartik\@ubuntu:\~$ bash condition.sh
+ bash condition.sh
 ```
 ***
 Enter the number
@@ -172,7 +172,7 @@ Enter the number
 
 **Number is incorrect**
 ```
-kartik\@ubuntu:\~$ bash condition.sh
+ bash condition.sh
 ```
 Enter the number
 
@@ -186,7 +186,7 @@ Enter the number
 
 iii) **AND (&) Operator**
 ```
-kartik\@ubuntu:\~$ nano and.sh
+ nano and.sh
 ```
 ```
 #!/bin/bash
@@ -208,7 +208,7 @@ fi
 **OUTPUT**
 
 ```
-kartik\@ubuntu:\~$ bash and.sh
+ bash and.sh
 ```
 ***
 Now enter the details of user
@@ -223,7 +223,7 @@ Enter the password
 
 **user is invalid**
 ```
-kartik\@ubuntu:\~$ bash and.sh
+ bash and.sh
 ```
 Now enter the details of user
 
@@ -241,7 +241,7 @@ Enter the password
 ***************
 iv) **CASE Option**
 ```
-kartik\@ubuntu:\~$ nano case.sh
+ nano case.sh
 ```
 ```
 #!/bin/bash
@@ -268,7 +268,7 @@ esac
 **OUTPUT**
 **********
 ```
-kartik\@ubuntu:\~$ bash case.sh
+ bash case.sh
 ```
 Enter the assigned Single digit no. to check Employee details
 
@@ -276,7 +276,7 @@ Enter the assigned Single digit no. to check Employee details
 
 **Name – Ramesh  Emp ID – 103**
 ```
-kartik\@ubuntu:\~$ bash case.sh
+ bash case.sh
 ```
 Enter the assigned Single digit no. to check Employee details
 
