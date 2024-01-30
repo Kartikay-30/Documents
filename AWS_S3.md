@@ -1,6 +1,7 @@
-
-
-| **Amazon Simple Storage Service (S3)**![](https://lh7-us.googleusercontent.com/WOlJBvLCsKT12z00a5hQoX9j_WxoTnZScpnus8W-Mtun6aIH99F_2gNc8JD1Fj-olR9oxKiEyE3_HyM8Ej6TraOsej69x7A08X5H-hPH75AmaSdV7yOV5Z478qE1N0K7bGjycCrcxjjOoKHRu9iOko8)![](https://lh7-us.googleusercontent.com/7e_z6E1UOJsdOk0-lBYKF36oM3x12OrGLogvQWg-m1Pn4xjpFOUiQbLw-w5xUuBhMelc8kJVPK4PWxZ2vPvG8p_Kj9DwW0BFv8sMeeYILqQzZBZsJPZQOtXGnLucDme3msej9y_iF9TNRaqrW__Ydnk)**By:- Kartikay (December Intern)** |
+# **Amazon Simple Storage Service (S3)**
+ ![](https://lh7-us.googleusercontent.com/WOlJBvLCsKT12z00a5hQoX9j_WxoTnZScpnus8W-Mtun6aIH99F_2gNc8JD1Fj-olR9oxKiEyE3_HyM8Ej6TraOsej69x7A08X5H-hPH75AmaSdV7yOV5Z478qE1N0K7bGjycCrcxjjOoKHRu9iOko8)
+ ![](https://lh7-us.googleusercontent.com/7e_z6E1UOJsdOk0-lBYKF36oM3x12OrGLogvQWg-m1Pn4xjpFOUiQbLw-w5xUuBhMelc8kJVPK4PWxZ2vPvG8p_Kj9DwW0BFv8sMeeYILqQzZBZsJPZQOtXGnLucDme3msej9y_iF9TNRaqrW__Ydnk)
+ # **By:- Kartikay (December Intern)** 
 
 **Table of Content:-**
 
