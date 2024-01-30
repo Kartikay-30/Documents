@@ -79,6 +79,31 @@
 * Shell scripts are easy to debug, and most shells have built-in debugging and error-reporting tools that can help identify and fix issues quickly.
 
 3. #  **How to Get Started with Bash Scripting**<a id="how-to-get-started-with-bash-scripting"></a>
+To start a Bash script in Linux, we need to follow these general steps:
+
+1. Create a Bash script: Use a text editor, such as `nano`, `vim`, or `gedit`, to create a new file and write your Bash script. For example:
+``` 
+       nano myscript.sh
+```
+   Inside the editor, write your script. Here's a simple example:
+```       
+       #!/bin/bash
+       echo "Hello, World!"
+```
+   Save the file and exit the text editor.
+
+2. Make the script executable: You need to make the script executable to run it. Use the `chmod` command to do this:
+```
+       chmod +x myscript.sh
+```
+3. Run the script: We can execute the script by typing its name preceded by `bash` in the terminal:
+```
+       bash myscript.sh
+```
+   This assumes that the script is in the current directory. If it's in a different directory, we need to provide the full or relative path.
+
+
+Keep in mind that the first line (`#!/bin/bash`) is called a **SHEBANG**, and it specifies the interpreter (in this case, Bash) to be used to run the script. It's necessary for the script to be interpreted correctly.
 
 i) **Basic code**
 
