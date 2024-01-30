@@ -298,6 +298,8 @@ This is a process in which all the statements will run till condition is true
 nano loop.sh
 ```
 ```
+#!/bin/bash
+
 for (( count==0; count<10; count++; ))
 
 do
@@ -311,7 +313,6 @@ done
 ```
 bash loop.sh
 ```
-```
 1
 2
 3
@@ -321,7 +322,6 @@ bash loop.sh
 7
 8
 9
-```
 ***********
 ***********
 ***********
