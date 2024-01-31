@@ -446,6 +446,59 @@ bash while.sh
 *****
 *****
 *****
+# **To search file with the help of scripting**
+
+```
+nano search.sh
+```
+```
+#!/bin/bash
+
+echo "Enter the file name you want to search"
+
+read name
+
+if [ -f $name ];
+
+   then
+
+echo "File is exists"
+
+   else
+
+echo "File does not exists"
+
+fi
+```
+**Note ➖**
+
+- Here `f` helps to find the file from our system
+
+**OUTPUT**
+```
+bash search.sh
+```
+Enter the file name you want to search
+
+kaushik
+
+**File is exists**
+```
+bash search.sh
+```
+Enter the file name you want to search
+
+kartik
+
+**File does not exists**
+
+**Note ➖**
+
+- Remember that file must already exist in your system.
+****
+****
+****
+
 # 4.   **Basic Bash commands**<a id="basic-bash-commands"></a>
 
 1)      cd: Change the directory to a different location.
