@@ -186,7 +186,7 @@ Enter the number
 *******************************
 *******************************
 *******************************
-iii) **OR ( `||` ) Operator**
+iii) **OR (`||`) Operator**
 ```
 nano or.sh
 ```
@@ -239,7 +239,7 @@ Enter the password
 ****
 ****
 
-iv) **AND (&) Operator**
+iv) **AND (`&`) Operator**
 ```
  nano and.sh
 ```
