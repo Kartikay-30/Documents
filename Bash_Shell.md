@@ -341,11 +341,11 @@ Enter the assigned Single digit no. to check Employee details
 **********
 **********
 **********
-v) **Looping** 
+vi) **Looping** 
 
 This is a process in which all the statements will run till condition is true
 
-- **For Loop**
+**(a) For Loop**
 ```
 nano loop.sh
 ```
@@ -385,9 +385,9 @@ bash loop.sh
 ***********
 ***********
 ***********
-- **While Loop**
+**(b) While Loop**
 ```
-**nano while.sh**
+nano while.sh
 ```
 ```
 #!/bin/bash
@@ -407,7 +407,7 @@ done
 **OUTPUT**
 *****
 ```
-**bash while.sh**
+bash while.sh
 ```
 1
 
@@ -422,7 +422,9 @@ done
 6
 
 7
-
+*****
+*****
+*****
 4. #  **Basic Bash commands**<a id="basic-bash-commands"></a>
 
 1)      cd: Change the directory to a different location.
