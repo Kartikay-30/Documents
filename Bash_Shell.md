@@ -186,7 +186,7 @@ Enter the number
 *******************************
 *******************************
 *******************************
-- **OR ( || ) Operator**
+iii) **OR ( `||` ) Operator**
 ```
 nano or.sh
 ```
@@ -197,7 +197,7 @@ echo "Enter the username"
 read user
 echo "Enter the password"
 read pass
-if [[ ( $user == "Kartikay" `||` $pass == "301224") ]];
+if [[ ( $user == "Kartikay" || $pass == "301224") ]];
 then
 echo "user is valid"
 else
@@ -239,7 +239,7 @@ Enter the password
 ****
 ****
 
-iii) **AND (&) Operator**
+iv) **AND (&) Operator**
 ```
  nano and.sh
 ```
@@ -294,7 +294,7 @@ Enter the password
 ***
 ***************
 ***************
-iv) **CASE Option**
+v) **CASE Option**
 ```
  nano case.sh
 ```
