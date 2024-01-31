@@ -44,7 +44,7 @@
 
 ## Definition of Bash scripting<a id="definition-of-bash-scripting"></a>
 
-- Bash stands for **Bourne Again SHell**
+- BASH stands for **Bourne Again SHell**
 - A bash script is a file containing a sequence of commands that are executed by the bash program line by line. It allows us to perform a series of actions, such as navigating to a specific directory, creating a folder, and launching a process using the command line.
 
 * By saving these commands in a script, we can repeat the same sequence of steps multiple times and execute them by running the script.
