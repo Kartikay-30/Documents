@@ -345,7 +345,7 @@ v) **Looping** 
 
 This is a process in which all the statements will run till condition is true
 
-- For loop
+- **For Loop**
 ```
 nano loop.sh
 ```
@@ -385,6 +385,44 @@ bash loop.sh
 ***********
 ***********
 ***********
+- **While Loop**
+```
+**nano while.sh**
+```
+```
+#!/bin/bash
+
+counter=1
+
+while [ $counter -le 7 ]
+
+do
+
+    echo $counter
+
+    ((counter++))
+
+done
+```
+**OUTPUT**
+*****
+```
+**bash while.sh**
+```
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
 4. #  **Basic Bash commands**<a id="basic-bash-commands"></a>
 
 1)      cd: Change the directory to a different location.
