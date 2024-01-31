@@ -33,7 +33,7 @@
 
 ##
 
-1. #  **Introduction**<a id="introduction"></a>
+# 1.   **Introduction**<a id="introduction"></a>
 
 - Shell Scripting consists of a set of commands to perform a task.
 
@@ -49,7 +49,7 @@
 
 * By saving these commands in a script, we can repeat the same sequence of steps multiple times and execute them by running the script.
 
-2. #  **Advantages of Bash scripting**<a id="advantages-of-bash-scripting"></a>
+# 2.   **Advantages of Bash scripting**<a id="advantages-of-bash-scripting"></a>
 
 - ## **Automation**<a id="automation"></a>
 
@@ -79,7 +79,7 @@
 
 * Shell scripts are easy to debug, and most shells have built-in debugging and error-reporting tools that can help identify and fix issues quickly.
 
-3. #  **How to Get Started with Bash Scripting**<a id="how-to-get-started-with-bash-scripting"></a>
+# 3.   **How to Get Started with Bash Scripting**<a id="how-to-get-started-with-bash-scripting"></a>
 To start a Bash script in Linux, we need to follow these general steps:
 
 1. Create a Bash script: Use a text editor, such as `nano`, `vim`, or `gedit`, to create a new file and write your Bash script. For example:
@@ -446,7 +446,7 @@ bash while.sh
 *****
 *****
 *****
-4. #  **Basic Bash commands**<a id="basic-bash-commands"></a>
+# 4.   **Basic Bash commands**<a id="basic-bash-commands"></a>
 
 1)      cd: Change the directory to a different location.
 
