@@ -186,6 +186,58 @@ Enter the number
 *******************************
 *******************************
 *******************************
+- **OR ( || ) Operator**
+```
+nano or.sh
+```
+```
+#!/bin/bash
+echo "Now enter the details of user"
+echo "Enter the username"
+read user
+echo "Enter the password"
+read pass
+if [[ ( $user == "Kartikay" `||` $pass == "301224") ]];
+then
+echo "user is valid"
+else
+echo "user is invalid"
+fi
+```
+**OUTPUT**
+```
+bash or.sh
+```
+****
+Now enter the details of user
+
+Enter the username
+
+Kartik
+
+Enter the password
+
+301224
+
+**user is valid**
+```
+bash or.sh
+```
+Now enter the details of user
+
+Enter the username
+
+kartikay
+
+Enter the password
+
+301224
+
+**user is valid**
+
+****
+****
+****
 
 iii) **AND (&) Operator**
 ```
