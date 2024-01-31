@@ -157,10 +157,15 @@ echo "Enter the number"
 read num
 
 if [ $num -lt 1000 ];
-then
+
+    then
+
 echo "Number is correct"
-else
+
+    else
+
 echo "Number is incorrect"
+
 fi
 ```
 **OUTPUT**
@@ -193,16 +198,26 @@ nano or.sh
 ```
 #!/bin/bash
 echo "Now enter the details of user"
+
 echo "Enter the username"
+
 read user
+
 echo "Enter the password"
+
 read pass
+
 if [[ ( $user == "Kartikay" || $pass == "301224") ]];
-then
+
+    then
+
 echo "user is valid"
-else
+
+    else
+
 echo "user is invalid"
-fi
+
+    fi
 ```
 **OUTPUT**
 ```
@@ -254,10 +269,15 @@ echo "Enter the password"
 read pass
 
 if [[ ( $user == "Kartikay" && $pass == "301224") ]];
-then
+
+    then
+
 echo "user is valid"
-else
+
+    else
+
 echo "user is invalid"
+
 fi
 ```
 **OUTPUT**
