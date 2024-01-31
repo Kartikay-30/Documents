@@ -51,31 +51,31 @@
 
 # 2.   **Advantages of Bash scripting**<a id="advantages-of-bash-scripting"></a>
 
-- ## **Automation**<a id="automation"></a>
+ ## a) **Automation**<a id="automation"></a>
 
 * It allows us to automate repetitive task and processes, saving time and reducing the risk of errors that can occur with manual execution.
 
-- ## **Portability**<a id="portability"></a>
+## b) **Portability**<a id="portability"></a>
 
 * Shell scripts can run on various platforms and operating systems, like UNIX, Linux, macOS, and even Windows through the use of emulators or virtual machines.
 
-- ## **Flexibility**<a id="flexibility"></a>
+ ## c) **Flexibility**<a id="flexibility"></a>
 
 * Shell scripts are highly customizable and can be easily modified to suit specific requirements. 
 
 - They can also be combined with other programming languages or utilities to create more powerful scripts.
 
-* ## **Accessibility**<a id="accessibility"></a>
+## d) **Accessibility**<a id="accessibility"></a>
 
 - Shell scripts are easy to write and don't require any special tools or software. 
 
 * They can be edited using any text editor like ( nano,vim,vi ), and most operating systems have a built-in shell interpreter.
 
-- ## **Integration**<a id="integration"></a>
+ ## e) **Integration**<a id="integration"></a>
 
 * Shell scripts can be integrated with other tools and applications, such as databases, web servers, and cloud services, allowing for more complex automation and system management tasks.
 
-- ## **Debugging**<a id="debugging"></a>
+ ## f) **Debugging**<a id="debugging"></a>
 
 * Shell scripts are easy to debug, and most shells have built-in debugging and error-reporting tools that can help identify and fix issues quickly.
 
